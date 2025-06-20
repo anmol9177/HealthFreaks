@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../HealthFreaks"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
